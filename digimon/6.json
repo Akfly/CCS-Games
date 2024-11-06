@@ -1,0 +1,1331 @@
+{
+  "id": 6,
+  "url": "https://github.com/Akfly/CCS-Games/blob/main/digimon/5.json",
+  "name": "デジモン",
+  "coinName": "Bits",
+  "cardPrices": {
+    "normal": {
+      "C": 50
+    },
+    "special": {
+      "C": 100
+    }
+  },
+  "setList": [
+    {
+      "id": 0,
+      "name": "Promos",
+      "releaseDate": "1999-06-01",
+      "borderRadius": "3%",
+      "boosterRatio": {},
+      "cardList": [
+        {
+          "id": 1,
+          "name": "秘<ひ>められし究<きゅう>極<きょく>パワー！！！ (ペンデュラム4 WIND GUARDIANS (Vジャンプ))",
+          "rarity": "P",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/0/1.jpg",
+          "isSpecial": false,
+          "releaseDate": "1999-07-01"
+        },
+        {
+          "id": 2,
+          "name": "八<や>神<がみ>太<た>一<いち> (歌<うた>と音<おん>楽<がく>集<しゅう>Ver.1)",
+          "rarity": "P",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/0/２.jpg",
+          "isSpecial": false,
+          "releaseDate": "1999-07-23"
+        },
+        {
+          "id": 3,
+          "name": "武<たけ>之<の>内<うち>空<そら> (歌<うた>と音<おん>楽<がく>集<しゅう>Ver.1)",
+          "rarity": "P",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/0/3.jpg",
+          "isSpecial": false,
+          "releaseDate": "1999-07-23"
+        },
+        {
+          "id": 4,
+          "name": "石<いし>田<だ>ヤマト (歌<うた>と音<おん>楽<がく>集<しゅう>Ver.1)",
+          "rarity": "P",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/0/4.jpg",
+          "isSpecial": false,
+          "releaseDate": "1999-07-23"
+        },
+        {
+          "id": 5,
+          "name": "泉<いずみ>光<こう>子<し>郎<ろ> (歌<うた>と音<おん>楽<がく>集<しゅう>Ver.1)",
+          "rarity": "P",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/0/5.jpg",
+          "isSpecial": false,
+          "releaseDate": "1999-07-23"
+        },
+        {
+          "id": 6,
+          "name": "太<た>刀<ち>川<かわ>ミミ (歌<うた>と音<おん>楽<がく>集<しゅう>Ver.1)",
+          "rarity": "P",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/0/6.jpg",
+          "isSpecial": false,
+          "releaseDate": "1999-07-23"
+        },
+        {
+          "id": 7,
+          "name": "高<たか>石<いし>タケル (歌<うた>と音<おん>楽<がく>集<しゅう>Ver.1)",
+          "rarity": "P",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/0/7.jpg",
+          "isSpecial": false,
+          "releaseDate": "1999-07-23"
+        },
+        {
+          "id": 8,
+          "name": "城<き>戸<ど>丈<じょう> (歌<うた>と音<おん>楽<がく>集<しゅう>Ver.1)",
+          "rarity": "P",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/0/8.jpg",
+          "isSpecial": false,
+          "releaseDate": "1999-07-23"
+        },
+        {
+          "id": 9,
+          "name": "メタルグレイモン (デジモンワールドサマーキャンペーン)",
+          "rarity": "P",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/0/9.jpg",
+          "isSpecial": false,
+          "releaseDate": "1999-08-01"
+        },
+        {
+          "id": 10,
+          "name": "未<み>来<らい>への可<か>能<のう>性<せい>！！ (Ｄ－１グランプリ１９９９)",
+          "rarity": "P",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/0/10.jpg",
+          "isSpecial": false,
+          "releaseDate": "1999-08-29"
+        },
+        {
+          "id": 11,
+          "name": "しょうりつ80%！！ (Ｄ－１グランプリ１９９９)",
+          "rarity": "P",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/0/11.jpg",
+          "isSpecial": false,
+          "releaseDate": "1999-08-29"
+        },
+        {
+          "id": 12,
+          "name": "ファイル島<とう>、空<くう>中<ちゅう>大<だい>決<けっ>戦<せん>！！ (オフィシャルイベント参<さん>加<か>)",
+          "rarity": "P",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/0/12.jpg",
+          "isSpecial": false,
+          "releaseDate": ""
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "スターターセット",
+      "imagePath": "...",
+      "releaseDate": "1999-06-01",
+      "previousSetDate": "1999-06-01",
+      "boosterPackImageSizePer": 47,
+      "borderRadius": "3%",
+      "boosterRatio": { "C": 4 },
+      "cardList": [
+        {
+          "id": 1,
+          "name": "アグモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/1.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 2,
+          "name": "グレイモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/2.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 3,
+          "name": "ピヨモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/3.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 4,
+          "name": "バードラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/4.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 5,
+          "name": "ガブモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/5.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 6,
+          "name": "ガルルモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/6.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 7,
+          "name": "テントモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/7.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 8,
+          "name": "カブテリモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/8.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 9,
+          "name": "パルモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/9.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 10,
+          "name": "トゲモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/10.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 11,
+          "name": "ゴマモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/11.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 12,
+          "name": "イッカクモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/12.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 13,
+          "name": "パタモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/13.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 14,
+          "name": "エンジェモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/14.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 15,
+          "name": "ナニモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/15.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 16,
+          "name": "ユニモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/16.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 17,
+          "name": "ケンタルモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/17.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 18,
+          "name": "クネモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/18.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 19,
+          "name": "ドクグモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/19.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 20,
+          "name": "ムシャモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/20.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 21,
+          "name": "キメラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/21.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 22,
+          "name": "ゴーレモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/22.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 23,
+          "name": "ゴツモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/23.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 24,
+          "name": "オタマモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/24.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 25,
+          "name": "トータモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/25.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 26,
+          "name": "スターモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/26.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 27,
+          "name": "ゲコモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/27.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 28,
+          "name": "アトラーカブテリモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/28.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 29,
+          "name": "トリケラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/29.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 30,
+          "name": "ピッコロモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/30.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 31,
+          "name": "オオクワモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/31.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 32,
+          "name": "スカルグレイモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/32.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 33,
+          "name": "ヘラクルカブテリモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/33.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 34,
+          "name": "サーベルレオモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/34.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 35,
+          "name": "ルカモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/35.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 36,
+          "name": "シーラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/36.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 37,
+          "name": "オクタモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/37.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 38,
+          "name": "ズドモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/38.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 39,
+          "name": "マリンデビモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/39.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 40,
+          "name": "プクモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/40.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 41,
+          "name": "キャンドモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/41.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 42,
+          "name": "ピコデビモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/42.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 43,
+          "name": "ハヌモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/43.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 44,
+          "name": "ウィザーモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/44.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 45,
+          "name": "バケモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/45.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 46,
+          "name": "マンモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/46.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 47,
+          "name": "ワーガルルモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/47.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 48,
+          "name": "デスメラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/48.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 49,
+          "name": "攻撃プラグインA",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/49.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 50,
+          "name": "防御プラグインC",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/50.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 51,
+          "name": "高速プラグインB",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/51.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 52,
+          "name": "負けたときにはお前も道連れ!",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/52.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 53,
+          "name": "ちょっとだけメタル化",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/53.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 54,
+          "name": "危機からの反撃!",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/54.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 55,
+          "name": "レベルⅣに変身!",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/55.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 56,
+          "name": "めざせ最強進化!",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/56.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 57,
+          "name": "あの頃はよかった",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/57.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 58,
+          "name": "誇りをかけた戦い!",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/58.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 59,
+          "name": "しょうりつ40%!",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/59.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 60,
+          "name": "しょうりつ60%!",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/1/60.jpg",
+          "isSpecial": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ブースター1",
+      "releaseDate": "1999-06-01",
+      "previousSetDate": "1999-06-01",
+      "boosterPackImageSizePer": 47,
+      "borderRadius": "3%",
+      "boosterRatio": { "C": 4 },
+      "cardList": [
+        {
+          "id": 1,
+          "name": "メタルグレイモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/1.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 2,
+          "name": "デビモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/2.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 3,
+          "name": "レオモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/3.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 4,
+          "name": "オーガモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/4.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 5,
+          "name": "メラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/5.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 6,
+          "name": "シードラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/6.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 7,
+          "name": "ユキダルモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/7.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 8,
+          "name": "トノサマゲコモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/8.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 9,
+          "name": "シェルモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/9.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 10,
+          "name": "ドリモゲモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/10.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 11,
+          "name": "アンドロモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/11.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 12,
+          "name": "モノクロモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/12.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 13,
+          "name": "クワガーモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/13.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 14,
+          "name": "モジャモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/14.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 15,
+          "name": "テイルモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/15.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 16,
+          "name": "エンジェウーモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/16.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 17,
+          "name": "ホーリードラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/17.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 18,
+          "name": "エビドラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/18.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 19,
+          "name": "ゴリモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/19.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 20,
+          "name": "イビルモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/20.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 21,
+          "name": "ミノタルモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/21.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 22,
+          "name": "レディーデビモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/22.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 23,
+          "name": "ゴキモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/23.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 24,
+          "name": "アシュラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/24.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 25,
+          "name": "スナイモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/25.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 26,
+          "name": "ジャガモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/26.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 27,
+          "name": "メタルエテモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/27.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 28,
+          "name": "ガニモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/28.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 29,
+          "name": "シャコモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/29.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 30,
+          "name": "ゲソモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/30.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 31,
+          "name": "メガシードラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/31.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 32,
+          "name": "アノマロカリモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/32.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 33,
+          "name": "ダゴモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/33.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 34,
+          "name": "マリンエンジェモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/34.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 35,
+          "name": "メタルシードラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/35.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 36,
+          "name": "バクモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/36.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 37,
+          "name": "パンプモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/37.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 38,
+          "name": "ヴァンデモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/38.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 39,
+          "name": "ファントモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/39.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 40,
+          "name": "スカルマンモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/40.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 41,
+          "name": "ボルトモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/41.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 42,
+          "name": "ピエモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/42.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 43,
+          "name": "メガハンド",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/43.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 44,
+          "name": "サンゴのお守り",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/44.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 45,
+          "name": "湖のぬしの笛",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/45.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 46,
+          "name": "白い羽",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/46.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 47,
+          "name": "鋼のドリル",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/47.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 48,
+          "name": "有機肥料",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/48.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 49,
+          "name": "アイテム使用禁止！",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/49.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 50,
+          "name": "プログラム緊急停止！",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/50.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 51,
+          "name": "争いはやめましょう",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/51.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 52,
+          "name": "くうちゅうから急降下！",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/52.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 53,
+          "name": "あなのなかから不意打ち！",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/53.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 54,
+          "name": "すいちゅうから攻撃！",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/2/54.jpg",
+          "isSpecial": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "ブースター2",
+      "releaseDate": "1999-09-01",
+      "previousSetDate": "1999-06-01",
+      "boosterPackImageSizePer": 47,
+      "borderRadius": "3%",
+      "boosterRatio": { "C": 4 },
+      "cardList": [
+        {
+          "id": 1,
+          "name": "ムゲンドラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/1.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 2,
+          "name": "コカトリモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/2.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 3,
+          "name": "エテモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/3.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 4,
+          "name": "ホエーモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/4.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 5,
+          "name": "スカモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/5.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 6,
+          "name": "ガジモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/6.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 7,
+          "name": "エレキモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/7.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 8,
+          "name": "もんざえモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/8.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 9,
+          "name": "ヌメモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/9.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 10,
+          "name": "マメモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/10.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 11,
+          "name": "メタルマメモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/11.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 12,
+          "name": "ティラノモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/12.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 13,
+          "name": "ナノモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/13.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 14,
+          "name": "ギロモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/14.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 15,
+          "name": "メガドラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/15.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 16,
+          "name": "デジタマモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/16.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 17,
+          "name": "ギザモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/17.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 18,
+          "name": "レアモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/18.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 19,
+          "name": "エクスティラノモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/19.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 20,
+          "name": "デルタモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/20.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 21,
+          "name": "タスクモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/21.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 22,
+          "name": "ヴァンデモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/22.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 23,
+          "name": "テイルモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/23.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 24,
+          "name": "サイクロモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/24.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 25,
+          "name": "ダークティラノモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/25.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 26,
+          "name": "メタルグレイモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/26.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 27,
+          "name": "フローラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/27.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 28,
+          "name": "マッシュモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/28.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 29,
+          "name": "ブイドラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/29.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 30,
+          "name": "トゲモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/30.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 31,
+          "name": "キウィモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/31.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 32,
+          "name": "ウッドモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/32.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 33,
+          "name": "レッドベジーモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/33.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 34,
+          "name": "エアロブイドラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/34.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 35,
+          "name": "ガルダモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/35.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 36,
+          "name": "ブロッサモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/36.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 37,
+          "name": "デラモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/37.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 38,
+          "name": "ジュレイモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/38.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 39,
+          "name": "ガーベモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/39.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 40,
+          "name": "ホウオウモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/40.jpg",
+          "isSpecial": true
+        },
+        {
+          "id": 41,
+          "name": "グリフォモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/41.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 42,
+          "name": "ピノッキモン",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/42.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 43,
+          "name": "デジヴァイス",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/43.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 44,
+          "name": "タグ",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/44.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 45,
+          "name": "勇気の紋章",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/45.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 46,
+          "name": "誠実の紋章",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/46.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 47,
+          "name": "純真の紋章",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/47.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 48,
+          "name": "友情の紋章",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/48.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 49,
+          "name": "黒い歯車",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/49.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 50,
+          "name": "しょうりつ４０％！",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/50.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 51,
+          "name": "しょうりつ６０％！",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/51.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 52,
+          "name": "ワルいおともだち",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/52.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 53,
+          "name": "水の中ってイイ気持ち！",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/53.jpg",
+          "isSpecial": false
+        },
+        {
+          "id": 54,
+          "name": "実はキミ......飛べないの？",
+          "rarity": "C",
+          "imagePath": "https://card-collector-simulator.s3.eu-north-1.amazonaws.com/6/sets/3/54.jpg",
+          "isSpecial": false
+        }
+      ]
+    }
+  ]
+}
