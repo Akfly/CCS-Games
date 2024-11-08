@@ -127,7 +127,8 @@
       "previousSetDate": "1999-06-01",
       "boosterPackImageSizePer": 47,
       "borderRadius": "3%",
-      "boosterRatio": { "C": 4 },
+      "boosterPrice": 1000,
+      "boosterRatio": { "C": 60 },
       "cardList": [
         {
           "id": 1,
@@ -558,6 +559,7 @@
       "previousSetDate": "1999-06-01",
       "boosterPackImageSizePer": 47,
       "borderRadius": "3%",
+      "boosterPrice": 150,
       "boosterRatio": { "C": 6 },
       "cardList": [
         {
@@ -947,6 +949,7 @@
       "previousSetDate": "1999-06-01",
       "boosterPackImageSizePer": 47,
       "borderRadius": "3%",
+      "boosterPrice": 150,
       "boosterRatio": { "C": 6 },
       "cardList": [
         {

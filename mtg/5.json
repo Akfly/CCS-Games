@@ -7,20 +7,20 @@
   "cardRarityOrder": ["C", "U", "R", "MR", "L", "T"],
   "cardPrices": {
     "normal": {
-      "C": 15,
-      "U": 50,
-      "R": 100,
-      "MR": 200,
-      "L": 15,
-      "T": 15
-    },
-    "special": {
       "C": 30,
-      "U": 75,
+      "U": 100,
       "R": 200,
       "MR": 500,
       "L": 30,
       "T": 30
+    },
+    "special": {
+      "C": 50,
+      "U": 200,
+      "R": 500,
+      "MR": 750,
+      "L": 100,
+      "T": 50
     }
   },
   "setList": [
@@ -31,6 +31,7 @@
       "previousSetDate": "1993-08-01",
       "boosterPackImageSizePer": 47,
       "borderRadius": "5%",
+      "boosterPrice": 500,
       "boosterRatio": {
         "shared": { "total": 11, "rarities": { "C": 6, "L": 4 } },
         "shared1": { "total": 3, "rarities": { "U": 8, "L": 2 } },
@@ -2160,6 +2161,7 @@
       "previousSetDate": "1993-12-01",
       "boosterPackImageSizePer": 47,
       "borderRadius": "5%",
+      "boosterPrice": 500,
       "boosterRatio": {
         "shared2": { "total": 1, "rarities": { "R": 9.5, "L": 0.5 } },
         "shared1": { "total": 3, "rarities": { "U": 8, "L": 2 } },
