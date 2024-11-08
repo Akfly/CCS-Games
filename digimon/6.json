@@ -556,7 +556,7 @@
       "previousSetDate": "1999-06-01",
       "boosterPackImageSizePer": 47,
       "borderRadius": "3%",
-      "boosterRatio": { "C": 4 },
+      "boosterRatio": { "C": 6 },
       "cardList": [
         {
           "id": 1,
@@ -945,7 +945,7 @@
       "previousSetDate": "1999-06-01",
       "boosterPackImageSizePer": 47,
       "borderRadius": "3%",
-      "boosterRatio": { "C": 4 },
+      "boosterRatio": { "C": 6 },
       "cardList": [
         {
           "id": 1,
