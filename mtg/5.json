@@ -2,7 +2,9 @@
   "id": 5,
   "url": "https://github.com/Akfly/CCS-Games/blob/main/mtg/5.json",
   "name": "Magic: The Gathering",
+  "version": "1.0.0",
   "coinName": "Coins",
+  "cardRarityOrder": ["C", "U", "R", "MR", "L", "T"],
   "cardPrices": {
     "normal": {
       "C": 15,
@@ -2159,9 +2161,9 @@
       "boosterPackImageSizePer": 47,
       "borderRadius": "5%",
       "boosterRatio": {
-        "shared": { "total": 11, "rarities": { "C": 6, "L": 4 } },
+        "shared2": { "total": 1, "rarities": { "R": 9.5, "L": 0.5 } },
         "shared1": { "total": 3, "rarities": { "U": 8, "L": 2 } },
-        "shared2": { "total": 1, "rarities": { "R": 9.5, "L": 0.5 } }
+        "shared": { "total": 11, "rarities": { "C": 6, "L": 4 } }
       },
       "cardList": [
         {

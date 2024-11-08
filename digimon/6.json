@@ -2,7 +2,9 @@
   "id": 6,
   "url": "https://github.com/Akfly/CCS-Games/blob/main/digimon/6.json",
   "name": "デジモン",
+  "version": "1.0.0",
   "coinName": "Bits",
+  "cardRarityOrder": ["C"],
   "cardPrices": {
     "normal": {
       "C": 50
